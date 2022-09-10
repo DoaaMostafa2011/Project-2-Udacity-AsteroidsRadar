@@ -28,7 +28,7 @@ class MainViewModel : ViewModel() {
      */
     private fun getAsteroids() {
         // TODO implement this function to get the data
-        
+
         _response.value = "Set the Asteroids API Response here!"
     }
 
